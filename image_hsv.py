@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-img = cv2.imread('image.png')
+img = cv2.imread('test_img\cv_img.png')
 
 print('Original Dimensions : ',img.shape)
  
